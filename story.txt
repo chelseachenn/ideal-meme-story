@@ -1,1 +1,8 @@
-Once upon a time there were a bunch of restless students who created a group called the Milk-Chugging Teens. They were all passionate about memes so they created together a facebook page called memes for Milk-Chugging Teens where they aspired to post a meme about their university every single weekend. One student in the group named Nick, a Computer Science major, was especially passionate about making CS-related memes. He searched and searched for CS memes ideas but couldn't find anything.
+Once upon a time there were a bunch of restless students who created a group called the Milk-Chugging Teens.
+They were all passionate about memes so they created together a facebook page called memes for Milk-Chugging Teens where they aspired to post a meme about their university every single weekend.
+One student in the group named Nick, a Computer Science major, was especially passionate about making CS-related memes. 
+He searched and searched for CS memes ideas but couldn't find anything.
+
+Nick tried very, very hard to think of CS memes, but he was having a very hard time.  Nick never really paid attention any of his CS courses.
+With his struggles to make CS memes, Nick finally realized that he doesnt really understand any of the content in his CS courses.  
+Nick was lead to an epiphony that he must become super knowledgable about CS to make the best CS memes.
