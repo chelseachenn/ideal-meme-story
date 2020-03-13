@@ -14,3 +14,10 @@ He hopes that soon enough he'll be a top creator on the page!
 Nick spent hours refining his craft, perfecting his meme mastery
 The number of likes on his memes continued to rise with every post.
 He surpassed his peers easily.
+
+When Nick learned about the improved time complexity with hash table, he got so excited so he spent over 8 hours perfecting his ~best~ meme about hash table complexity.
+He posted it on the Facebook meme page, and people loved it instantly.
+Nick was so elated because his dream was finally achieved to be the meme-master, that he went into a stroke and died. His last words were: I came, I saw, and I conquered to make memes!!
+
+La Fin.
+
